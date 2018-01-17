@@ -3,8 +3,8 @@ beans = {
     mailSender(org.springframework.mail.javamail.JavaMailSenderImpl) {
         host = "email-smtp.us-west-2.amazonaws.com"
         port = 465
-        username = "AKIAJBLGMBECUGV7K2BQ"
-        password = "Aqelf7sZ8BJyrUjZHg/L9mCS2JQ4MnCwGRXBRYYsWV2M"
+        username = "edit"
+        password = "edit"
         javaMailProperties = ["mail.smtp.auth":"true",
                               "mail.smtp.port":"465",
                               "mail.transport.protocol":"smtps",
